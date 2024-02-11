@@ -1,18 +1,18 @@
 {
-    "domain": "grenton",
-    "name": "grenton",
-    "codeowners": [
-      "@MonoliYoda"
-    ],
-    "config_flow": true,
-    "dependencies": [],
-    "documentation": "https://www.home-assistant.io/integrations/grenton",
-    "homekit": {},
-    "iot_class": "local_push",
-    "requirements": [
-      "pycryptodome==3.20.0"
-    ],
-    "ssdp": [],
-    "zeroconf": []
-  }
-  
+  "domain": "grenton",
+  "name": "grenton",
+  "version": "0.0.1",
+  "codeowners": [
+    "@MonoliYoda"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/grenton",
+  "homekit": {},
+  "iot_class": "local_push",
+  "requirements": [
+    "pycryptodome==3.20.0"
+  ],
+  "ssdp": [],
+  "zeroconf": []
+}
